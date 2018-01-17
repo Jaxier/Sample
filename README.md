@@ -1,6 +1,6 @@
-#Sample
+# Sample
 
-##Esto seria un subapartado
+## Esto seria un subapartado
 Este es el contenido del subapartado
 esto es un [enlace] (https://www.google.es) a Google
 
