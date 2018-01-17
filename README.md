@@ -1,2 +1,0 @@
-# Sample
-Proyecto de prueba
