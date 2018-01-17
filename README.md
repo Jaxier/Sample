@@ -2,7 +2,7 @@
 
 ## Esto seria un subapartado
 Este es el contenido del subapartado
-esto es un [enlace] (https://www.google.es) a Google
+esto es un [enlace](https://www.google.es) a Google
 
 * Primero
 * Segundo
