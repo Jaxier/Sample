@@ -29,4 +29,4 @@ Tambien en *cursiva* y en **negrita**
 ## Otro apartado
 
 Voy a poner una imagen:
-|[texto alternativo de la imagen](https://www.chiquipedia.com/imagenes/imagenes-animo09.jpg)
+![texto alternativo de la imagen](https://www.chiquipedia.com/imagenes/imagenes-animo09.jpg)
